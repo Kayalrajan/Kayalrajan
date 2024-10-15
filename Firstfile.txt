@@ -1,1 +1,2 @@
 Git is a Version Control software and developed by Linux
+GitHub is a webservice and managed by Microsoft
